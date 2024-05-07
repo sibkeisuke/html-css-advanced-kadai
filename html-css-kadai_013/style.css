@@ -141,7 +141,7 @@ PC用のスタイル
   #nav-sp>.menu {
     text-decoration: none;
     display: block;
-    margin: 0 20px 0 20px;
+    margin: 0 20px;
     height: 44px;
     font-size: 16px;
     background-image: url("images/arrow.png");
